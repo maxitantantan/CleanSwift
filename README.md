@@ -1,6 +1,9 @@
-# CleanSwift
+#                                          CleanSwift
 
 # ESPAÑOL:
+
+
+
 
 
 Un escobazo digital al alma de Windows: qué hace este script de limpieza total
@@ -31,6 +34,9 @@ Este script no es un "limpiador de PC", es un ritual de purificación.
 Lo ejecutas una vez, y tu equipo despierta como si acabara de salir de un retiro espiritual con hardware zen.
 
 Pero, como todo exorcismo, hay que saber cuándo parar. Porque después de borrar todo lo innecesario, si sigues adelante... podrías empezar a borrar lo esencial.
+
+
+
 
 
 # English
@@ -66,5 +72,8 @@ Run carelessly, and your PC might forget who it is.
 
 Because after everything unneeded is gone… what's left could be everything necessary.
 
+
+
+# Buscabas el download??
 
 # https://cleanswiftwgg.netlify.app/
